@@ -6,9 +6,9 @@ The program starts by reading earth.txt file of certain structure. Then, the lin
 
 After successfully storing the details of earthquakes inside a nested linked list, some options are offered to the user to analyze or modify the data.
 - Option 1
-  - Remove all earthquakes that have magnitude below certain threshold (for example, if the user wants to delete all earthquakes that have the magnitude below 3.0, they need to choose option 1, and enter a threshold of 3)
+  - Remove all earthquakes that have magnitude below certain threshold.
 - Option 2
-  - 
+  - Show details of the earthquake of particular place. It will display number of earthquakes, number of tsunamis, and the average magnitude of all earthquakes in that place.
 
   ### Structure of earth.txt file
   | Place      | Year | Month | Day | Magnitude | Latitude | Longitude | Tsunami |
