@@ -1,6 +1,6 @@
 # Earthquakes analyzer
 ## Main point of the program
-The main point of the program is to practice linked lists implementation in C.
+The main point of the program is to practice **linked lists implementation in C**.
 ## How it works?
 The program starts by reading earth.txt file of certain structure. Then, the **linked list** data structure is implemented in order to store each of the earthquakes. Each node of this linked list has the potential to start **another linked list**. This is needed in case there are two earthquakes in the same place (place with the same name in earth.txt file).
 
