@@ -1,1 +1,5 @@
-# Object-Oriented Programming (Aggregation, Composition, Virtual Functions)
+# Object-Oriented Programming
+
+- **Aggregation**
+- **Composition**
+- **Virtual Functions**
