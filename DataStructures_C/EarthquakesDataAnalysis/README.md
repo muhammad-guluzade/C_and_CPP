@@ -10,10 +10,10 @@ After successfully storing the details of earthquakes inside a **nested linked l
 - **Option 2**
   - Show details of the earthquake of particular place. It will display **number of earthquakes**, **number of tsunamis**, and the **average magnitude** of all earthquakes in that place.
 
-  ### Structure of earth.txt file
-  | Place      | Year | Month | Day | Magnitude | Latitude | Longitude | Tsunami |
-  |------------|------|-------|-----|-----------|----------|-----------|---------|
-  | Location 1 | 2023 | 01    | 01  | 7.2       | 34.567   | -120.789  | 1       |
+### Structure of earth.txt file
+| Place      | Year | Month | Day | Magnitude | Latitude | Longitude | Tsunami |
+|------------|------|-------|-----|-----------|----------|-----------|---------|
+| Location 1 | 2023 | 01    | 01  | 7.2       | 34.567   | -120.789  | 1       |
 
-  Tsunami column represents whether there was a tsunami (1) or wasn't (0).
+Tsunami column represents whether there was a tsunami (1) or wasn't (0).
 
